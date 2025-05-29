@@ -1,4 +1,4 @@
-## Soy un Analista jr 👋
+## Soy Roberto Aldaz, Encantado de conocerte !!  👋
 
 <!--
 **Robalcor/Robalcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 - actualemtne soy un analista de datos con poca experiencia pero con muchas ganas de aprender.
 - actuamente trabajo como instructor de surf.
-- estoy en busca de nuevas oportunidades.
-- busco adquirir experiencia.
+- tengo cnocimiento de Python, SQL, Tableau, ML(Sklearn).
+
 - como exsalvavidas se trabajar en equipo y bajo presion.
 - puesdes contactarme por whatsapp: +52 6641122706
 - [Facebook](https://www.facebook.com/roberto.aldazcorona.5/)
-- en este momento trabajo como instructor de surf.
+- [linkedin](https://www.linkedin.com/in/roberto-aldaz-ba3520343/)
+
