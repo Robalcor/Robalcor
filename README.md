@@ -1,4 +1,4 @@
-## Hi there 👋
+## Soy un Analista jr 👋
 
 <!--
 **Robalcor/Robalcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - busco adquirir experiencia.
 - como exsalvavidas se trabajar en equipo y bajo presion.
 - puesdes contactarme por whatsapp: +52 6641122706
+- [Facebook](https://www.facebook.com/roberto.aldazcorona.5/)
 - en este momento trabajo como instructor de surf.
