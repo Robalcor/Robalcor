@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- actualemtne soy un analista de datos con poca experiencia pero con muchas ganas de aprender.
+- actuamente trabajo como instructor de surf.
+- estoy en busca de nuevas oportunidades.
+- busco adquirir experiencia.
+- como exsalvavidas se trabajar en equipo y bajo presion.
+- puesdes contactarme por whatsapp: +52 6641122706
+- en este momento trabajo como instructor de surf.
