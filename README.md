@@ -8,7 +8,7 @@ Soy un analista de datos junior con mmuchas ganas de aprender y crecer en el mun
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23E20000.svg?style=for-the-badge&logo=sql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 #### 📚 Libraries
 
